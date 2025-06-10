@@ -147,16 +147,16 @@ No Project. Just Explaination.
 # ✅ Web Development Syllabus & Checklist
 
 ## 📘 Phase 1: Basic Web Dev
-- [ ] HTML Basics
-- [ ] CSS Basics
+- [x] HTML Basics
+- [x] CSS Basics
 - [ ] JS Basics
 - [ ] Cookies & Local Storage
-- [ ] Web Dev/Site Intro
+- [x] Web Dev/Site Intro
 
 ## 📘 Phase 2: Tools & Hosting
-- [ ] Terminal Commands
-- [ ] Text Editor IDEs (VS Code)
-- [ ] Git & GitHub
+- [x] Terminal Commands
+- [x] Text Editor IDEs (VS Code)
+- [x] Git & GitHub
 - [ ] Frameworks vs Libraries
 - [ ] NPM Basics
 - [ ] Vercel Hosting
